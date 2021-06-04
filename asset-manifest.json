@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/virtual-gifting/static/css/main.e4bfe0ed.chunk.css",
+    "main.js": "/virtual-gifting/static/js/main.c163508e.chunk.js",
+    "main.js.map": "/virtual-gifting/static/js/main.c163508e.chunk.js.map",
+    "runtime-main.js": "/virtual-gifting/static/js/runtime-main.e0fbf9f0.js",
+    "runtime-main.js.map": "/virtual-gifting/static/js/runtime-main.e0fbf9f0.js.map",
+    "static/js/2.dc9dbd08.chunk.js": "/virtual-gifting/static/js/2.dc9dbd08.chunk.js",
+    "static/js/2.dc9dbd08.chunk.js.map": "/virtual-gifting/static/js/2.dc9dbd08.chunk.js.map",
+    "static/js/3.267c5a5f.chunk.js": "/virtual-gifting/static/js/3.267c5a5f.chunk.js",
+    "static/js/3.267c5a5f.chunk.js.map": "/virtual-gifting/static/js/3.267c5a5f.chunk.js.map",
+    "index.html": "/virtual-gifting/index.html",
+    "static/css/main.e4bfe0ed.chunk.css.map": "/virtual-gifting/static/css/main.e4bfe0ed.chunk.css.map",
+    "static/js/2.dc9dbd08.chunk.js.LICENSE.txt": "/virtual-gifting/static/js/2.dc9dbd08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0fbf9f0.js",
+    "static/js/2.dc9dbd08.chunk.js",
+    "static/css/main.e4bfe0ed.chunk.css",
+    "static/js/main.c163508e.chunk.js"
+  ]
+}
